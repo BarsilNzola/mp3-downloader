@@ -1,0 +1,29 @@
+YouTube MP3 Downloader (yt-dlp Version)
+
+    FIRST RUN:
+
+        The application includes its own FFmpeg
+
+        No additional software needed
+
+    HOW TO USE:
+
+        Paste any YouTube URL
+
+        Select output folder (default: current directory)
+
+        Click "Download MP3"
+
+    KEY FEATURES:
+
+        Handles age-restricted videos better than pytube
+
+        Supports more YouTube URL formats
+
+        More reliable downloads
+
+    TROUBLESHOOTING:
+
+        If downloads fail, try a different YouTube URL
+
+        Ensure you have internet connection
