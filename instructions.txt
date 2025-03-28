@@ -1,5 +1,20 @@
 YouTube MP3 Downloader (yt-dlp Version)
 
+    INSTALLATION GUIDE
+
+    1. RUN THE INSTALLER:
+    - Double-click "MP3DownloaderSetup.exe" from the Releases folder
+    - Follow the installation wizard
+
+    2. APPLICATION LOCATIONS:
+    - Main Program: C:\Program Files\MP3 Downloader\mp3-downloader.exe
+    - FFmpeg Tools: C:\Program Files\MP3 Downloader\ffmpeg\
+    - Desktop Shortcut: Created automatically (optional)
+
+    3. UNINSTALLING:
+    - Via Windows: Settings > Apps > "MP3 Downloader" > Uninstall
+    - Via Start Menu: Right-click shortcut > Uninstall
+
     FIRST RUN:
 
         The application includes its own FFmpeg
